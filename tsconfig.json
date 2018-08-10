@@ -8,5 +8,8 @@
     ],
     "outDir": "./lib",
     "pretty": true,
-  }
+  },
+  "exclude": [
+    "./test/"
+  ]
 }
