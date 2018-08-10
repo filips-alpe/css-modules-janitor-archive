@@ -36,7 +36,7 @@
   },
   "engines": {
     "node": ">=6.4.0",
-    "yarn": "^1.7.0"
+    "yarn": "^1.6.0"
   },
   "license": "Unlicense"
 }
