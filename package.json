@@ -20,7 +20,11 @@
     "url": "https://github.com/filipsalpe/css-modules-janitor.git"
   },
   "main": "lib/index.js",
+  "dependencies": {
+    "glob": "^7.1.2"
+  },
   "devDependencies": {
+    "@types/glob": "5.0.35",
     "@types/jest": "23.3.1",
     "@types/node": "10.5.7",
     "codecov": "3.0.4",
@@ -37,7 +41,7 @@
     "report-coverage": "codecov"
   },
   "engines": {
-    "node": ">=6.4.0",
+    "node": ">=8.0.0",
     "yarn": "^1.6.0"
   },
   "license": "Unlicense"
