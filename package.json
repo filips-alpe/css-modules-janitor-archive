@@ -1,0 +1,24 @@
+{
+  "name": "css-modules-janitor",
+  "version": "0.0.1",
+  "description": "A janitor for your css-modules!",
+  "keywords": [
+    "css-modules",
+    "janitor",
+    "remove",
+    "optimize",
+    "unused",
+    "css",
+    "scss",
+    "sass",
+    "less",
+    "sugarss"
+  ],
+  "author": "Filips Alpe <filips.alpe@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/filipsalpe/css-modules-janitor.git"
+  },
+  "main": "index.js",
+  "license": "Unlicense"
+}
