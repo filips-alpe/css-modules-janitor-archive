@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "lib": [
+      "dom",
+      "es5",
+      "scripthost",
+      "es2015.promise",
+    ],
+    "outDir": "./lib",
+    "pretty": true,
+  }
+}
